@@ -5,5 +5,5 @@
 (require 'color-theme)
 (color-theme-initialize)
 (load "~/.emacs.d/conf/lib/color-theme/color-theme-mytwighlight.el")
-
+(color-theme-mytwilight)
 
