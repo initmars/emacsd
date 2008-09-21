@@ -1,5 +1,5 @@
 ;; This theme was originally implemented as twilight but I customized it...
- 
+
 (defun color-theme-mytwilight ()
   "Color theme by Marcus Crafter, based off the TextMate Twilight theme, created 2008-04-18. Changed by Martin Stoev"
   (interactive)
@@ -11,10 +11,10 @@
       (cursor-color . "#A7A7A7")
       (foreground-color . "#F8F8F8")
       (mouse-color . "sienna1"))
-     (default ((t (:background "black" :foreground "white" :weight bold))))
+     (default ((t (:background "black" :foreground "white"))))
      (blue ((t (:foreground "blue"))))
      (mode-line ((t (:background "#2b2b2b" :foreground "white" :box (:line-width 1 :style none)))))
-     (modeline-buffer-id ((t (:bold t :background "#2b2b2b" :foreground "#dfdfdf" :weight bold))))
+     (modeline-buffer-id ((t (:bold t :background "#2b2b2b" :foreground "#dfdfdf" ))))
      (modeline-mousable ((t (:background "#2b2b2b"  :foreground "#dfdfdf"))))
      (modeline-mousable-minor-mode ((t (:background "#2b2b2b" :foreground "#dfdfdf"))))
      (italic ((t (:italic t))))
@@ -31,10 +31,10 @@
      (font-lock-keyword-face ((t (:foreground "#CDA869"))))
      (font-lock-preprocessor-face ((t (:foreground "Aquamarine"))))
      (font-lock-reference-face ((t (:foreground "SlateBlue"))))
- 
+
      (font-lock-regexp-grouping-backslash ((t (:foreground "#E9C062"))))
      (font-lock-regexp-grouping-construct ((t (:foreground "red"))))
- 
+
      (font-lock-string-face ((t (:foreground "#8F9D6A"))))
      (font-lock-type-face ((t (:foreground "#9B703F"))))
      (font-lock-variable-name-face ((t (:foreground "#7587A6"))))
@@ -48,6 +48,6 @@
      (text-cursor ((t (:background "yellow" :foreground "black"))))
      (toolbar ((t (nil))))
      (minibuffer-prompt ((t (:foreground "white"))))
-     (isearch ((t (:foreground "#ebe494" :background "#d48085" :weight bold))))
-     (isearch-lazy-highlight-face ((t (:foreground "#d48085" :background "#ebe494" :weight bold))))
+     (isearch ((t (:foreground "#ebe494" :background "#d48085" ))))
+     (isearch-lazy-highlight-face ((t (:foreground "#d48085" :background "#ebe494" ))))
      (zmacs-region ((t (:background "snow" :foreground "ble")))))))
