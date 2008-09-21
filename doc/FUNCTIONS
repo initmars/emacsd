@@ -1,0 +1,8 @@
+FUNCTIONS
+
+fd. := See function description
+
+Function(Parameters)[Shortcut] : Description
+show-paren-mode()[] : Marks the matching parenthesis.
+delete-blank-lines()[C-x C-o] : fd.
+scroll-all-mode()[] : Scrolls all windows at once.

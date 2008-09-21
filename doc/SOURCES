@@ -1,0 +1,27 @@
+SOURCES
+=======
+
+nxml-mode : http://www.thaiopensource.com/nxml-mode/
+
+color-theme : http://download.gna.org/color-theme/ ; http://www.emacswiki.org/cgi-bin/wiki?ColorTheme
+
+ruby-mode : - ; Included in every ruby distribution.
+
+twilight-emacs : http://redartisan.com/2008/5/27/twilight-emacs
+
+yasnippet : http://code.google.com/p/yasnippet/
+
+linum.el : http://stud4.tuwien.ac.at/~e0225855/linum/linum.html
+
+tabbar.el : http://emhacks.sourceforge.net/
+
+yaml-mode.el : http://svn.clouder.jp/repos/public/yaml-mode/trunk/yaml-mode.el
+
+light-symbol.el : http://groups.google.com/group/gnu.emacs.sources/browse_thread/thread/2d5e8e101df6e502?hl=en
+
+find-recursive.el : http://www.webweavertech.com/ovidiu/emacs/find-recursive.txt
+
+snippets.el : http://www.kazmier.com/computer/snippet.el
+
+emacs-rails : http://rubyforge.org/projects/emacs-rails
+

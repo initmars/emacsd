@@ -1,0 +1,9 @@
+#name : <book>...</book>
+# --
+<?xml version='1.0'?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook V5.0//EN"
+               "http://www.oasis-open.org/docbook/xml/5.0/docbook.dtd" [
+<!ENTITY mars "Martin Stoev">
+<!ENTITY chap1 SYSTEM "chap1.xml">
+<!ENTITY chap2 SYSTEM "chap2.xml">
+]>

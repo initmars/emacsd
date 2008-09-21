@@ -1,0 +1,5 @@
+#name : <itemizedlist>...</itemizedlist>
+# --
+<itemizedlist>
+  $0
+</itemizedlist>

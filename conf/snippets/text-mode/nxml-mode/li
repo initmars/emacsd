@@ -1,0 +1,7 @@
+#name : <listitem>...</listitem>
+# --
+<listitem>
+  <para>
+	  $0
+	</para>
+</listitem>

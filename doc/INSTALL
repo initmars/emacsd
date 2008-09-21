@@ -1,0 +1,13 @@
+INSTALL
+
+To install .emacs.d just get a copy of this directory to
+~/.emacs.d so that this file is located in ~/.emacs.d/doc/INSTALL
+
+Furthermore create a new file ~/.emacs.el and enter the following
+code:
+
+(load-library "~/.emacs.d/conf/.emacs.el")
+
+If there are more files which match the pattern
+~/.emacs.d/conf/.emacs.*.el then you can just load one of these
+instead. Each should be fully operatable. 

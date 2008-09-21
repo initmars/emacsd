@@ -1,0 +1,8 @@
+#name : <chapter><title>...</title></chapter>
+# --
+<chapter>
+  <title>${chapter_title}</title>
+	<para>
+	  $0
+	</para>
+</chapter>
